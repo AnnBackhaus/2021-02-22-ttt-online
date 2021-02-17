@@ -14,7 +14,7 @@ etherpad: ["https://pad.carpentries.org/2021-02-22-ttt-online"] # optional: URL 
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 locations:
   - venue: "Online"
-    address: "Day 1 Zoom: https://us02web.zoom.us/j/87380053590?pwd=UjdrMG1OSFhJV1hrU3FKSk1ZUlNOZz09"
+    address: "https://us02web.zoom.us/j/87380053590?pwd=UjdrMG1OSFhJV1hrU3FKSk1ZUlNOZz09"
 
   
 
